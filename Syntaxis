@@ -1,0 +1,3 @@
+function printAnArrayWithAgivenDelimiter(arr, str){
+   console.log(arr.join(str));
+} 
